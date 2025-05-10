@@ -121,6 +121,14 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
 </div>
 
+<h3 align="left">👀 Vues de profil</h3>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omayma77&color=brightgreen&style=flat" alt="Profile Views" />
+</div>
+
 ---
 
 ## 📫 Me contacter

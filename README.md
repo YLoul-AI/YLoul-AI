@@ -113,6 +113,24 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
 </div>
 
 ---
+---
+
+## 📊 Statistiques GitHub & Visites
+
+<div align="center">
+  
+  <!-- Compteur de visiteurs -->
+  <img src="https://komarev.com/ghpvc/?username=YLoul-AI&label=Nombre%20de%20visites&color=0e75b6&style=flat-square" alt="Visiteurs du profil" />
+  
+  <!-- Statistiques GitHub -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
+  
+  <!-- Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
+  
+</div>
+
 
 ## 📊 Statistiques GitHub
 

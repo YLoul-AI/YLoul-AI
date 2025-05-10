@@ -113,7 +113,6 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
 </div>
 
 ---
----
 
 ## 📊 Statistiques GitHub & Visites
 

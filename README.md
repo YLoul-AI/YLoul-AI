@@ -53,21 +53,48 @@ Boutique de produits électroniques avec une landing page moderne responsive sou
 Application Streamlit interactive pour la visualisation d’indicateurs économiques et d’analyses (projet ECON).  
 📁 [À venir ou dépôt privé]
 
+### 🔹 Pharmacy Manager – Application Desktop Java
+Application complète de gestion de pharmacie (produits, fournisseurs, ventes, stock).  
+📁 [Voir le projet](https://github.com/YLoul-AI/PharmacyManager)
+
+### 🔹 Site vitrine BTP – HTML, CSS, JS
+Site web responsive pour une entreprise du BTP avec animations et présentation de services.  
+📁 [Voir le projet](https://github.com/YLoul-AI/web-btp-site)
+
 ---
 
 ## 🧠 Compétences techniques
 
-### 🗂️ Langages
-`Python`, `Java`, `PHP`, `JavaScript`, `HTML/CSS`, `SQL`
-
-### 📊 IA & Optimisation
-`SVM`, `PCA`, `NMF`, `DE`, `PSO`, `Grid Search`, `Random Search`, `Bayesian Optimization`
-
-### 🌐 Web & Apps
-`FastAPI`, `Streamlit`, `WordPress`, `PrestaShop`, `Jupyter`, `Elementor`, `Bootstrap`
-
-### 🧰 Outils & Environnements
-`Git`, `GitHub`, `VS Code`, `WAMP`, `Linux`, `LaTeX`, `MySQL`, `Anaconda`, `ECON` (Projet d’analyse économique)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h4>🗂️ Langages</h4>
+    <ul>
+      <li>Python, Java, PHP, JavaScript</li>
+      <li>HTML5 / CSS3, SQL</li>
+    </ul>
+  </div>
+  <div>
+    <h4>📊 IA & Optimisation</h4>
+    <ul>
+      <li>SVM, PCA, NMF, Grid/Random Search</li>
+      <li>DE, PSO, Bayesian Optimization</li>
+    </ul>
+  </div>
+  <div>
+    <h4>🌐 Web & Apps</h4>
+    <ul>
+      <li>FastAPI, Streamlit, WordPress, PrestaShop</li>
+      <li>Bootstrap, Jupyter, Elementor</li>
+    </ul>
+  </div>
+  <div>
+    <h4>🧰 Outils</h4>
+    <ul>
+      <li>Git, GitHub, VS Code, WAMP</li>
+      <li>MySQL, LaTeX, Anaconda, Linux</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -83,6 +110,15 @@ Application Streamlit interactive pour la visualisation d’indicateurs économi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
 </div>
 
 ---

@@ -117,9 +117,16 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
 ## 📊 Statistiques GitHub
 
 <div align="center">
+  <!-- Compteur de visiteurs -->
+  <img src="https://visitorbadge.io/status?path=YLoul-AI" alt="Visiteurs" height="40" />
+
+  <!-- Statistiques GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
+  
+  <!-- Langages les plus utilisés -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
 </div>
+
 
 ---
 

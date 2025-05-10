@@ -5,9 +5,14 @@
   <h1>👋 Bonjour, je suis Youssef Loul</h1>
   <h3>Étudiant en Master ISI | Passionné par l'IA, l'optimisation, et les technologies web</h3>
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
+  <!-- Statistiques GitHub -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
+  </div>
+
+  <!-- Compteur de visiteurs -->
+  <img src="https://visitorbadge.io/status?path=YLoul-AI" alt="Visiteurs" height="40" />
 </div>
 
 ---
@@ -57,29 +62,29 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
 
 ## 🧠 Compétences techniques
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px;">
     <h4>🗂️ Langages</h4>
     <ul>
       <li>Python, Java, PHP, JavaScript</li>
       <li>HTML5 / CSS3, SQL</li>
     </ul>
   </div>
-  <div>
+  <div style="flex: 1; padding: 10px;">
     <h4>📊 IA & Optimisation</h4>
     <ul>
       <li>SVM, PCA, NMF, Grid/Random Search</li>
       <li>DE, PSO, Bayesian Optimization</li>
     </ul>
   </div>
-  <div>
+  <div style="flex: 1; padding: 10px;">
     <h4>🌐 Web & Apps</h4>
     <ul>
       <li>FastAPI, Streamlit, WordPress, PrestaShop</li>
       <li>Bootstrap, Jupyter, Elementor</li>
     </ul>
   </div>
-  <div>
+  <div style="flex: 1; padding: 10px;">
     <h4>🧰 Outils</h4>
     <ul>
       <li>Git, GitHub, VS Code, WAMP</li>
@@ -118,7 +123,6 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
   <!-- Langages les plus utilisés -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
 </div>
-
 
 ---
 

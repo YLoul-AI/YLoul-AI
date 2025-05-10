@@ -1,81 +1,80 @@
+<!-- HEADER -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160"/>
+  
+  <h1 align="center">Salut, moi c'est Youssef Loul 👋</h1>
+  <h3 align="center">🎓 Étudiant en Master ISI | 💡 Passionné par l'IA, l'optimisation, et le développement web</h3>
+
+  <p align="center">
+    <a href="mailto:youssef.loul.ai@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://www.linkedin.com/in/youssef-loul" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://github.com/YLoul-AI">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+    </a>
+  </p>
 </div>
 
-<h1 align="center">👋 Salut, moi c'est Youssef Loul</h1>
+---
+
+### 👨‍💻 À propos de moi
+
+- 🎓 Étudiant en Master **Systèmes Intelligents et Ingénierie (ISI)**  
+- 🧠 Licence en **Mathématiques et Informatique (SMI)**  
+- 💻 Passionné par l’**IA**, les **méta-heuristiques**, la **data science** et le **développement web**  
+- 🌍 Maroc | 🕒 25 ans
+
+---
+
+### 🚀 Mes projets récents
+
+🧠 **Optimisation SVM avec DE**  
+Optimisation des hyperparamètres SVM via Differential Evolution. Comparaison avec PSO, BO et Grid Search.  
+🔗 [Voir le projet](https://github.com/YLoul-AI/svm-optimization-DE)
+
+🗨️ **Forum API (FastAPI)**  
+API REST complète pour forum avec gestion utilisateurs, JWT, pagination, etc.  
+🔗 [Voir le projet](https://github.com/YLoul-AI/forum-fastapi)
+
+🛒 **ElectroStore – PrestaShop + WordPress**  
+Boutique e-commerce électronique sous PrestaShop + landing page responsive sous WordPress.  
+🔗 [Voir le projet](https://github.com/YLoul-AI/electrostore)
+
+---
+
+### 🧠 Compétences techniques
+
+| Langages | IA & Data | Web & Dev | Outils |
+|---------|-----------|------------|--------|
+| Python, Java, PHP, JS, SQL | SVM, PCA, PSO, DE, BO, Scikit-learn, Pandas | FastAPI, WordPress, PrestaShop, HTML/CSS | GitHub, LaTeX, WAMP, VS Code, Linux |
+
+---
+
+### 🛠 Outils & Environnements
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-loul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:youssef.loul.ai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://github.com/YLoul-AI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
 </div>
 
 ---
 
-## 👨‍🎓 À propos de moi
+### 📫 Me contacter
 
-🎓 Étudiant en Master **Systèmes Intelligents et Ingénierie (ISI)**  
-💡 Passionné par l'IA, l'optimisation, le développement web et la data science  
-📌 Basé au Maroc | Âge : 25 ans  
-
-Issu d’une licence en Mathématiques et Informatique (SMI), je développe des projets mêlant intelligence artificielle, métaheuristiques, développement full-stack et applications data-driven.
+- 📧 Mail : **youssefloul@gmail.com**  
+- 🔗 LinkedIn : [linkedin.com/in/youssef-loul](https://www.linkedin.com/in/youssef-loul)  
+- 🌐 GitHub : [github.com/YLoul-AI](https://github.com/YLoul-AI)
 
 ---
 
-## 🚀 Projets récents
-
-### 🧠 Optimisation SVM avec l’Algorithme d’Évolution Différentielle  
-Optimisation des hyperparamètres SVM avec Differential Evolution. Comparaison avec Grid Search, PSO, Random Search, BO.  
-📁 [Voir le repo](https://github.com/YLoul-AI/svm-optimization-DE)
-
-### 🗨️ API Forum avec FastAPI  
-Backend complet d’un forum : gestion des utilisateurs, publications, commentaires, JWT, pagination.  
-📁 [Voir le repo](https://github.com/YLoul-AI/forum-fastapi)
-
-### 🛒 ElectroStore – PrestaShop & WordPress  
-Site e-commerce de produits électroniques (PrestaShop) avec vitrine moderne (WordPress/Elementor).  
-📁 [Voir le repo](https://github.com/YLoul-AI/electrostore)
-
----
-
-## 💼 Compétences techniques
-
-- **Langages :** Python, Java, PHP, JavaScript, HTML/CSS, SQL  
-- **Frameworks & Outils :** FastAPI, Streamlit, Scikit-learn, Matplotlib, Pandas, MySQL, PrestaShop, WordPress, LaTeX  
-- **IA & Optimisation :** SVM, PCA, DE, PSO, Grid Search, Random Search, NMF  
-- **IDE & Environnements :** VS Code, PyCharm, Git, GitHub, Linux, WAMP
-
----
-
-## ⚙️ Outils et Technologies
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" />
-</div>
-
----
-
-## 📫 Me contacter
-
-📧 **Email :** youssefloul@gmail.com  
-🔗 **LinkedIn :** [linkedin.com/in/youssef-loul](https://www.linkedin.com/in/youssef-loul)  
-🌐 **GitHub :** [github.com/YLoul-AI](https://github.com/YLoul-AI)
-
----
-
-> _“L’intelligence, c’est la capacité de s’adapter au changement.” – Stephen Hawking_
+<p align="center"><i>“L’intelligence, c’est la capacité de s’adapter au changement.” – Stephen Hawking</i></p>

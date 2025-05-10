@@ -5,14 +5,17 @@
   <h1>👋 Bonjour, je suis Youssef Loul</h1>
   <h3>Étudiant en Master ISI | Passionné par l'IA, l'optimisation, et les technologies web</h3>
 
-  <!-- Statistiques GitHub -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
-  </div>
-
-  <!-- Compteur de visiteurs -->
-  <img src="https://visitorbadge.io/status?path=YLoul-AI" alt="Visiteurs" height="40" />
+  <p align="center">
+    <a href="mailto:youssef.loul.ai@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/loul-youssef-21777819a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/YLoul-AI">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -62,29 +65,29 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
 
 ## 🧠 Compétences techniques
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px;">
+<div style="display: flex; justify-content: space-between;">
+  <div>
     <h4>🗂️ Langages</h4>
     <ul>
       <li>Python, Java, PHP, JavaScript</li>
       <li>HTML5 / CSS3, SQL</li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div>
     <h4>📊 IA & Optimisation</h4>
     <ul>
       <li>SVM, PCA, NMF, Grid/Random Search</li>
       <li>DE, PSO, Bayesian Optimization</li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div>
     <h4>🌐 Web & Apps</h4>
     <ul>
       <li>FastAPI, Streamlit, WordPress, PrestaShop</li>
       <li>Bootstrap, Jupyter, Elementor</li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div>
     <h4>🧰 Outils</h4>
     <ul>
       <li>Git, GitHub, VS Code, WAMP</li>
@@ -114,13 +117,7 @@ Site web responsive pour une entreprise du BTP avec animations et présentation 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <!-- Compteur de visiteurs -->
-  <img src="https://visitorbadge.io/status?path=YLoul-AI" alt="Visiteurs" height="40" />
-
-  <!-- Statistiques GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=YLoul-AI&show_icons=true&theme=github_dark&hide=issues&locale=fr" height="170" alt="Statistiques GitHub" />
-  
-  <!-- Langages les plus utilisés -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLoul-AI&layout=compact&theme=github_dark&hide=html,css" height="170" alt="Langages les plus utilisés" />
 </div>
 
